@@ -1,6 +1,6 @@
 # Python-Beginner-Projects
 My Python Projects 
-# Fibonacci_Natural_Cubes(Fibonacci_Natural_Cubes.py)
+# Fibonacci_Natural_Cubes
   First half of the assignment required me to output the Nth Fibonacci number
   Second half required me to output the Nth sum of the natural numbers cubed. 
   
