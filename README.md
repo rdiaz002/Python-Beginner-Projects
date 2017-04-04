@@ -1,8 +1,9 @@
 # Python-Beginner-Projects
 My Python Projects 
-# Fibonachi 
-  Assignment that required me to create a program that would output the Nth fibonacci number. N being user input. 
-
+# Fibonacci_Natural_Cubes(Fibonacci_Natural_Cubes.py)
+  First half of the assignment required me to output the Nth Fibonacci number
+  Second half required me to output the Nth sum of the natural numbers cubed. 
+  
 
 # RSA_Encryption_Decryption
   Assignment that required me to use the RSA algorithm to Encrypt and Decrypt messages passed into it. 
