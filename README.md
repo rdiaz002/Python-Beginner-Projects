@@ -12,3 +12,14 @@ My Python Projects
 
 # Connect_4 
   Python version of connect_4 with no GUI. Enjoy
+
+# GUI_Motor_Cali
+  A script created for Raspberry Pi that allows the user to control and calibrate an ESC (Electric Speed Controller).  
+  **How to Use**
+  1.Run Script  
+  2.Plug ESC into proper GPIO pin on Raspberry Pi
+  3.Input Pin number in text box labeled "Pin".(The script uses GPIO.BOARD mode)
+  4.Input starting Frequency and DutyCyle in text boxes labeled respectively. 
+  5.Click Turn On button. 
+  
+  
